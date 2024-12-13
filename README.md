@@ -1,6 +1,8 @@
 # Zoologico
 
-## Dado el proyecto de zoológico, crearlo en Django(python)Agregar funcionalidades de:
+## Dado el proyecto de zoológico, crearlo en Django(python)
+
+Agregar funcionalidades de:
 - Filtros
 - Búsqueda
 - Presentar diferentes tipos de datos (columnas)
@@ -11,3 +13,6 @@ todas estas funcionalidades en el admin de django.
 
 ![390979057-6a1678ad-4124-40e1-9276-71b5512d3bba](https://github.com/user-attachments/assets/00b8b743-1338-40cd-aa81-1e3a1a43b5d3)
 
+## Código
+1. [Admin](https://github.com/Dougdree/ZoologicoPycharm/blob/develop/ZooCodigo/zoologico/admin.py)
+2. [Models](https://github.com/Dougdree/ZoologicoPycharm/blob/develop/ZooCodigo/zoologico/models.py)
